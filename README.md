@@ -91,7 +91,7 @@ After running inference with the trained YOLOv8 model, predicted images are gene
 - **Clear Bounding Boxes:**  Bounding boxes are precise and non-overlapping, preserving the structural clarity of the document for downstream tasks.
 
 **Example Images:**
-![download](https://github.com/user-attachments/assets/e9df95bb-38a3-41ed-a3a8-24df8ecf0738)
+![image](https://github.com/user-attachments/assets/44672a64-d74a-41e1-9d64-f9f08176423a)
 
 ### Results
 
