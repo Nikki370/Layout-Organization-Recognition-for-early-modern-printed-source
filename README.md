@@ -118,7 +118,7 @@ After running inference with the trained YOLOv8 model, predicted images are gene
 
 #### 1️⃣ Clone the Repository  
 ```bash
-link to your repository
+https://github.com/Nikki370/Layout-Organization-Recognition-for-early-modern-printed-source
 ```
 #### 2️⃣ Install Required Packages
 ```bash
@@ -133,6 +133,6 @@ link to your repository
 
 ### 👨‍💻 Author  
 📌 **Nikita Kumari**  
-📧 [np810652@gmail.com] | 🖥️ [https://github.com/Nikki370](link to github)  
+📧 [np810652@gmail.com] | 🖥️ [https://github.com/Nikki370] (link to github)  
 
 🔹 If you find this project useful, give it a ⭐ on GitHub! 🚀  
