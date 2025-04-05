@@ -67,15 +67,15 @@ The project includes the following graphs for visualization:
 
 - **Training and Validation Metrics (results.png):** Shows the trend of losses and evaluation metrics over epochs, providing insights into the model's learning process and potential overfitting.
 
-![image](https://github.com/user-attachments/assets/ab959ff2-b362-4c4e-b184-d46a048c7656)
+![image](https://github.com/user-attachments/assets/bc6eae9c-07b9-443e-aaec-56a07b66dc01)
 
 - **Precision and Recall Confidence Curve (P_curve.png, R_curve.png):** Illustrates the precision and recall of the model at different confidence thresholds, helping to understand the trade-off between these metrics.
 
-![image](https://github.com/user-attachments/assets/34d89662-410c-45a2-a566-e76f63e2ca78)
+![image](https://github.com/user-attachments/assets/275957bf-6846-4c62-bd6b-20a71c01e075)
 
 - **mAP@0.5 and mAP@0.5:0.95 Trends:** Visualizes the improvement in detection accuracy over epochs, using both lenient and stricter IoU thresholds for evaluation.
 
-![image](https://github.com/user-attachments/assets/b6112869-d0e2-4c28-9a6b-c5e4c3f022ad)
+![image](https://github.com/user-attachments/assets/a4c06843-5aca-401a-b1ba-4b1fbf6ae3f1)
 
 -These graphs help to assess the model's performance, identify areas for improvement, and understand the impact of different hyperparameters.
 
