@@ -117,10 +117,10 @@ After running inference with the trained YOLOv8 model, predicted images are gene
 ### Resources
 
 - **Trained Model Weights**  
-  [Download YOLOv8m Weights (Google Drive)](https://drive.google.com/drive/folders/1zzMS5sXRhgt4quE7PlkbwRorpHOzRuyP)
+  [Download YOLOv8m Weights (Google Drive)](https://drive.google.com/drive/folders/1DerlCBIXqfETTMyN9ek10r3XGwFLL_rB)
 
 - **Annotated Dataset**  
-  [Download Annotated Dataset (Google Drive)](https://drive.google.com/drive/folders/1zzMS5sXRhgt4quE7PlkbwRorpHOzRuyP)
+  [Download Annotated Dataset (Google Drive)](https://drive.google.com/drive/folders/11_eDbllbZIbj3x26ko0Im0lhujzUJpqt)
 
 ---
 
