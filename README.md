@@ -146,3 +146,17 @@ https://github.com/Nikki370/Layout-Organization-Recognition-for-early-modern-pri
 📧 [np810652@gmail.com] | 🖥️ [https://github.com/Nikki370] (link to github)  
 
 🔹 If you find this project useful, give it a ⭐ on GitHub! 🚀  
+
+
+
+---
+
+## 🔐 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project with proper credit.
+
+See the [LICENSE](./LICENSE) file for full details.
+
+
+
